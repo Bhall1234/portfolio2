@@ -7,7 +7,7 @@ import Portfolio from './components/portfolio/Portfolio'
 import Testimonials from './components/testimonials/Testimonials'
 import Experience from './components/experience/Experience'
 import Services from './components/services/Services'
-import About from './components/about/About'
+import About from './components/about/About' 
 
 const App = () => {
   return (
